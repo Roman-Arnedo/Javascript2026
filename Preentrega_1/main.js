@@ -13,4 +13,4 @@ console.log (saludo)
 const compra= "El perfume cuesta $" + precio + " y al comprarlo te quedarían $" + DineroRestante
 console.log(compra);
 
-console.log("Si tu capital restante da negativor, esa es la cantidad de dinero que te falta para adquirir el perfume")
+console.log("Si tu capital restante da negativo, esa es la cantidad de dinero que te falta para adquirir el perfume")
